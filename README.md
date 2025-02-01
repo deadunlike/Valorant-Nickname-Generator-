@@ -9,7 +9,7 @@ Gerador estilizado de nicknames para Valorant usando HTML, CSS e JavaScript.
 
 ## 🖥️ Preview
 <div align="center">
-  <img src="./img/screenshot.png" alt="Interface do Gerador" width="600">
+  <img src=".screenshot.png" alt="Interface do Gerador" width="600">
   <p><em>Interface do Gerador de Nicknames para Valorant</em></p>
 </div>
 
