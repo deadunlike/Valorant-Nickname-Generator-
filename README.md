@@ -14,7 +14,7 @@ Gerador estilizado de nicknames para Valorant usando HTML, CSS e JavaScript.
 </div>
 
 ## 🚀 Como Usar
-1. Acesse o [Live Demo](https://seu-user.github.io/repo)
+1. Acesse o https://incredible-tulumba-7be4af.netlify.app 
 2. Clique em **GENERATE** para novos nicks
 3. Clique no nickname para copiar
 
